@@ -1,0 +1,16 @@
+{
+  "itemGroup.enchlibathome": "家用附魔图书馆",
+  "block.enchlibathome.library": "附魔图书馆",
+  "block.enchlibathome.ender_library": "亚历山大图书馆",
+  "enchlibathome.ench.library": "附魔图书馆",
+  "tooltip.enchlib.capacity": "等级容量：%s",
+  "tooltip.enchlib.max_lvl": "最高可附魔至：%s级",
+  "tooltip.enchlib.points": "已储存点数：%s/%s",
+  "tooltip.enchlib.unavailable": "无法提高至下一等级",
+  "tooltip.enchlib.extracting": "将提取至%s级",
+  "tooltip.enchlib.cost": "仍需消耗点数：%s",
+  "tooltip.enchlib.item": "已储存%d个附魔",
+  "info.enchlibathome.library": "附魔图书馆可储存附魔。将附魔书放入图书馆即可将其妥善保存。鼠标点击已储存的附魔将提取1级该附魔。按住Shift再点击则直接提取其最高等级。",
+  "enchantment.level.16": "XVI（16级）",
+  "enchantment.level.31": "XXXI（31级）"
+}
